@@ -17,3 +17,5 @@ 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
 계속 해결 안 되면 파일을 지우고 다시 클론 받아보세요~!
 
 데탑에서 되나 확인~...
+
+디코 알림 가나 확인용!!
